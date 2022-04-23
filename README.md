@@ -4,7 +4,7 @@ Hi 👋 My name is Marsa Naufal
 Junior Frontend Developer
 -------------------------
 
-I'm a student and I've been learning to code back when I was
+I'm a student at SMK Negeri 7 Samarinda, and I've been learning to code when I was First Grade Of Vocational High School.
 
 *   🌍  I'm based in Indonesia, Samarinda
 *   ✉️  You can contact me at [marsanaufal12@gmail.com](mailto:marsanaufal12@gmail.com)

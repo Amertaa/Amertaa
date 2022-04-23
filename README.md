@@ -1,6 +1,6 @@
 Hello There 👋 My Name Is Marsa Naufal
 =============================
-Junior Frontend Developer
+Software Engineer || Junior Frontend Developer
 -------------------------
 
 I'm a student at SMK NEGERI 7 Samarinda, and I've been learning to code a few years ago 

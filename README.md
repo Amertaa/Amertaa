@@ -11,7 +11,7 @@ I'm a student at SMK NEGERI 7 Samarinda, and I've been learning to code a few ye
 *   🧠  I'm learning Vue.js - Tailwind
 *   ⚡  Loved to Workout and Play Badminton
 
-### Skills
+### Playground
 
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>

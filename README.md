@@ -1,14 +1,14 @@
 Hello There 👋 My Name Is Marsa Naufal
 =============================
-Software Engineer || Junior Frontend Developer
+Software Engineer || Junior Backend Developer
 -------------------------
 
 I'm a student at SMK NEGERI 7 Samarinda, and I've been learning to code a few years ago 
 
 *   🌍  I'm based in Indonesia, Samarinda
-*   ✉️  You can contact me at [marsanaufal12@gmail.com](mailto:marsanaufal12@gmail.com)
+*   ✉️  You can contact me at [marsanaufal@protonmail.com](mailto:marsanaufal@protonmail.com)
 *   🚀  I'm currently working None
-*   🧠  I'm learning Vue.js - Tailwind
+*   🧠  I'm learning Laravel
 *   ⚡  Loved to Workout and Play Badminton
 
 ### Playground

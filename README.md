@@ -5,7 +5,7 @@ Software Engineer || Junior Backend Developer
 *   🌍  I'm based in Indonesia, Samarinda
 *   ✉️  You can contact me at [marsanaufal@protonmail.com](mailto:marsanaufal@protonmail.com)
 *   🚀  I'm currently working in Greennusa
-*   🎓  Studied At Kalimantan Institute Technology
+*   🎓  Studied At Kalimantan Institute of Technology
 *   🧠  I'm learning Laravel
 *   ⚡  Loved to Play Badminton
 

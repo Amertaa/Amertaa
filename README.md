@@ -6,7 +6,7 @@ Software Engineer || Junior Backend Developer
 *   ✉️  You can contact me at [marsanaufal@protonmail.com](mailto:marsanaufal@protonmail.com)
 *   🚀  I'm currently working in None
 *   🎓  Studied At Kalimantan Institute of Technology
-*   🧠  I'm learning Laravel
+*   🧠  I'm learning Laravel and javaScript
 *   ⚡  Loved to Play Badminton
 
 ### Playground

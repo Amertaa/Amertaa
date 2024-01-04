@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marsa Naufal</h1>
 <h3 align="center">An Electrical Engineering Student who loves to Code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amertaa" alt="amertaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amertaa&theme=gruvbox" alt="Amertaa" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel and JavaScript**
 
@@ -26,10 +26,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/amerta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/amerta" /></a></p><br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amertaa&theme=gruvbox" alt="Amertaa" /></a> </p>
-
-<div> <a href="https://github.com/Amertaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Stars</h3>
+</div><h3 align="left">Stars:</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amertaa&layout=compact&theme=merko" alt=Amertaa />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amertaa&show_icons=true&locale=en&theme=merko" alt="Amertaa" /></p>

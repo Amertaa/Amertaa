@@ -32,3 +32,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amertaa&" alt="amertaa" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amertaa&theme=dracula" alt="Amertaa" /></a> </p>
+
+<div> <a href="https://github.com/Amertaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amertaa&layout=compact&theme=" alt=Amertaa />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amertaa&show_icons=true&locale=en&theme=dracula" alt="Amertaa" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amertaa&theme=" alt="Amertaa" /></p>
+

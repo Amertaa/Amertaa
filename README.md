@@ -26,19 +26,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/amerta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/amerta" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amertaa&show_icons=true&locale=en&layout=compact" alt="amertaa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amertaa&show_icons=true&locale=en" alt="amertaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amertaa&" alt="amertaa" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amertaa&theme=dracula" alt="Amertaa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amertaa&theme=gruvbox" alt="Amertaa" /></a> </p>
 
 <div> <a href="https://github.com/Amertaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amertaa&layout=compact&theme=" alt=Amertaa />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amertaa&layout=compact&theme=merko" alt=Amertaa />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amertaa&show_icons=true&locale=en&theme=dracula" alt="Amertaa" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amertaa&show_icons=true&locale=en&theme=merko" alt="Amertaa" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amertaa&theme=" alt="Amertaa" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amertaa&theme=merko" alt="Amertaa" /></p>
 

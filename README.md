@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel and JavaScript**
 
-- 🎓 I’m currently Studied At **Kalimantan Institute of Technology**
+- 🎓 I’m currently Studying At **Kalimantan Institute of Technology**
 
 - 💬 Ask me about **Laravel, Tailwind, SCSS**
 

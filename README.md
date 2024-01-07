@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amertaa&theme=gruvbox" alt="Amertaa" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel and JavaScript**
+- 🌱 I’m currently learning **Laravel, Javascript and C**
 
 - 🎓 I’m currently Studying At **Kalimantan Institute of Technology**
 
